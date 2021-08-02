@@ -1,5 +1,3 @@
 # Demo 
 
 Learning GitHub
-
-Testing
